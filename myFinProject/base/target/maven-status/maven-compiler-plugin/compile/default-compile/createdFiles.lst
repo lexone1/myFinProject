@@ -1,0 +1,8 @@
+by\myFin\properties\PropertiesManager.class
+by\myFin\annotation\BeanNameDoesNotExistCondition.class
+by\myFin\annotation\QAComponent.class
+by\myFin\navigation\Navigation.class
+by\myFin\properties\DefaultPropertiesManager.class
+by\myFin\page\BasePage.class
+by\myFin\steps\BaseStepDefinition.class
+by\myFin\utility\Globals.class
